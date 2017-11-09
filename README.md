@@ -3,10 +3,10 @@
 A **10x** faster way to validate json objects with a simple ast. This library
 is intended to be used as a transpilation target.
 
-| Library | Test Name | Single Run | Benchmark |
-|---|---|---|---|
-| [ajv](https://github.com/epoberezkin/ajv) | fstab | 22.926ms | 17,550 ops/sec |
-| fast-json-validator | fstab | **0.67ms** | **149,795 ops/sec** |
+| Library | Test Name | Single Run | Benchmark | Size (gzip) |
+|---|---|---|---|---|
+| [ajv](https://github.com/epoberezkin/ajv) | fstab | 22.926ms | 17,550 ops/sec | 2.6kb |
+| fast-json-validator | fstab | **0.67ms** | **149,795 ops/sec** | **1.6kb** |
 
 ## Installation
 
