@@ -1,6 +1,6 @@
 # Fast JSON Validator
 
-A **10x** faster way to validate json objects with a simple ast. This library
+A **10x faster** way to validate json objects with a simple ast. This library
 is intended to be used as a transpilation target.
 
 | Library | Test Name | Single Run | Benchmark | Size (gzip) |
